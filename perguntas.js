@@ -1,5 +1,3 @@
-# Perguntas e Respostas - Programação
-
 criaCartao(
     'Programação',
     'Qual é o principal objetivo de um loop em programação?',
@@ -74,8 +72,6 @@ criaCartao(
     'Triatlo.'
 )
 
-# Perguntas e Respostas - Matemática
-
 criaCartao(
     'Matemática',
     'Qual é o valor de $\\pi$ (Pi) arredondado para duas casas decimais?',
@@ -112,8 +108,6 @@ criaCartao(
     '$16 \\text{ cm}^2$.'
 )
 
-# Perguntas e Respostas - Geografia
-
 criaCartao(
     'Geografia',
     'Qual é o maior oceano do mundo?',
@@ -149,8 +143,6 @@ criaCartao(
     'Qual deserto é considerado o maior do mundo?',
     'Deserto do Saara.'
 )
-
-# Perguntas e Respostas - História
 
 criaCartao(
     'História',

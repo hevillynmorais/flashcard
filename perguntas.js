@@ -1,3 +1,4 @@
+
 criaCartao(
     'Programação',
     'Qual é o principal objetivo de um loop em programação?',
@@ -34,8 +35,6 @@ criaCartao(
     'def.'
 )
 
-# Perguntas e Respostas - Esporte
-
 criaCartao(
     'Esporte',
     'Qual país sediou a primeira Copa do Mundo de Futebol em 1930?',
@@ -71,6 +70,7 @@ criaCartao(
     'Qual o nome do esporte que envolve nadar, pedalar e correr?',
     'Triatlo.'
 )
+
 
 criaCartao(
     'Matemática',
@@ -179,4 +179,3 @@ criaCartao(
     'Em que ano a Lei Áurea foi assinada no Brasil?',
     '1888.'
 )
-

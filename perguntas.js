@@ -74,20 +74,20 @@ criaCartao(
 
 criaCartao(
     'Matemática',
-    'Qual é o valor de $\\pi$ (Pi) arredondado para duas casas decimais?',
-    '$3.14$.'
+    'Qual é o valor de (Pi) arredondado para duas casas decimais?',
+    '3.14.'
 )
 
 criaCartao(
     'Matemática',
-    'Se um triângulo tem ângulos de $90^{\\circ}$ e $45^{\\circ}$, qual é a medida do terceiro ângulo?',
-    '$45^{\\circ}$.'
+    'Se um triângulo tem ângulos de 90∘ e 45∘, qual é a medida do terceiro ângulo?',
+    '45∘.'
 )
 
 criaCartao(
     'Matemática',
-    'Qual é o resultado de $5 \\times (3 + 2)$?',
-    '$25$.'
+    'Qual é o resultado de 5 x (3 + 2)?',
+    '25.'
 )
 
 criaCartao(
@@ -99,13 +99,13 @@ criaCartao(
 criaCartao(
     'Matemática',
     'Qual é a raiz quadrada de 81?',
-    '$9$.'
+    '9.'
 )
 
 criaCartao(
     'Matemática',
     'Se um quadrado tem um lado de 4 cm, qual é a sua área?',
-    '$16 \\text{ cm}^2$.'
+    '16cm2.'
 )
 
 criaCartao(
